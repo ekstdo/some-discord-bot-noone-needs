@@ -28,17 +28,22 @@ Liste:
 
 Links:
 [ich bin ein Link](https://dillinger.io)
+
 [haha][1]
+
+[1]: https://dillinger.io
+
 [Link mit Titel, wenn Maus](https://... "hallo Maus")
 
 Bild:
 ![Text, wenn Bild nicht angezeigt wird](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.naturerleben.net%2Fwp-content%2Fuploads%2FNews-Igel.jpg&f=1)
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Tabelle | Spalte | Yay |
+|---------|:--------:|-----:|
+| Reihe1  | Zelle1 | Aha |
+|Name| Yay | Immernoch richtig|
+|linker| mittiger | rechter Text|
 
 `code Stück`
 ```javascript
@@ -57,5 +62,4 @@ $ MathJax $
 
 Fußnote[^1]
 
-[1]: https://dillinger.io
 [^1]: Fußnote, yay
